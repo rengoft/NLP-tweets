@@ -1,2 +1,3 @@
 # NLP-tweets
-Solution of Kaggle competition problem of recognizing disaster messages from tweet.
+### Problem
+Problem of recognizing important messages from tweets.
